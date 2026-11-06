@@ -44,6 +44,16 @@ See [CHANGELOG.md](CHANGELOG.md) for what's new in each update.
 
 To update, download the newest APK and install it over the old one. Your settings are kept.
 
+## Installing on a car stereo
+
+CarDash also runs on aftermarket Android car stereos (head units from brands like Atoto, Joying or Eonon) that run **Android 12 or newer** and let you install apps.
+
+1. On the stereo, open the browser and go to the **Download CarDash.apk** link above, or copy the APK over on a USB stick and open it with the stereo's file manager.
+2. Allow installs from that app when asked, then tap **Install**.
+3. To make CarDash open when the car starts, set it as the home screen: **Settings → Apps → Default apps → Home app → CarDash** (the exact menu names vary by stereo). You can switch back any time the same way.
+
+CarDash isn't available for cars with Google built-in (Android Automotive OS, e.g. Polestar, Volvo, GM). Those cars only allow approved app types from Google Play and block other apps while driving.
+
 ## Privacy
 
 CarDash has no account, ads or tracking. Weather comes from [Open-Meteo](https://open-meteo.com/), and gas prices come from the U.S. Energy Information Administration's public data. Everything else stays on your phone.

@@ -1,5 +1,11 @@
 # Changelog
 
+## November 2026 (1.1)
+
+- Works on aftermarket Android car stereos (head units running Android 12 or newer)
+- CarDash can now be set as the home screen on a car stereo, so it opens when the car starts
+- The Settings and notification-access buttons no longer crash on devices that don't have those screens
+
 ## October 2026 — first release (1.0)
 
 - CarPlay-style dashboard with Google Maps, now playing, weather, calendar, battery and gas price widgets
