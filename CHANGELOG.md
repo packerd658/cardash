@@ -1,5 +1,9 @@
 # Changelog
 
+## November 2026 (1.2)
+
+- On car screens with a curved edge, CarDash no longer leaves an extra empty strip beside the curve when the car allows apps to use that space
+
 ## November 2026 (1.1)
 
 - Works on aftermarket Android car stereos (head units running Android 12 or newer)
